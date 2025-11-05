@@ -23,7 +23,8 @@
   }
 }
 
-@theme inline {
+/* Tailwind CSS v4 theme variables */
+@theme {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-primary-cta: var(--primary-cta);
